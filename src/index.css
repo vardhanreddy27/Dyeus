@@ -242,3 +242,36 @@ line-height: 206.5%!important;
       color: white!important;
       background-color: black!important;
       border-radius: 70px!important;  }
+      .newco{background: linear-gradient(180deg, #FFF6FB 0%, #E7F6FC 100%);
+      }
+      .para10{
+        color: rgba(0, 0, 0, 0.8)!important;
+    font-family: 'Reptile';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    padding-left: 33px;
+    padding-right: 33px;
+    background: linear-gradient(180deg, #FFF6FB 0%, #E7F6FC 100%);
+    line-height: 134.8%;
+    font-size: x-large;
+    line-height: 3rem;
+      }
+      .footer{
+        color: white;
+background-color: #050506!important;
+      }
+      .hrx{
+        background-color:rgb(255, 255, 255)!important;
+        width: 79%!important;
+          margin: 0 auto!important;
+        opacity: 1!important;      }
+        .in{
+          padding-left: 2.5rem;
+          padding-right: 1rem;
+        }
+        .btn-c{background-color: rgb(233, 244, 255, 1)!important;
+        border-radius: 5rem!important;}
+        .sic{
+          width: 2rem!important;
+        }
