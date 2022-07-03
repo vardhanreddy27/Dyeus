@@ -50,6 +50,13 @@ hr{background-color:black!important;
     line-height: 33px;
     /* identical to box height */
     color: #1B1B50;}
+    .sub-text4{font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 22px;
+      line-height: 33px;
+      /* identical to box height */
+      color: #1B1B50;}
     .sub-text3{
       
 font-family: 'Reptile';
@@ -100,3 +107,79 @@ color: #1B1B50;
     
     color: #1B1B50;
     }
+    .gradient2{background: linear-gradient(165.41deg, #D99EC9 0%, rgba(246, 240, 196, 0) 100%);
+    }
+
+    @font-face {
+      font-family: 'Reptile';
+      src: local('Reptile'), url(../public/Reptile-Medium.otf) format('woff');
+       }
+       .para4{
+        font-family: 'Reptile';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 24px;
+        padding-left: 33px;
+        padding-right: 33px;
+        line-height: 134.8%;
+        color: #1B1B50;}
+        .para5{font-family: 'Poppins';
+          font-style: normal;
+          font-weight: 300;
+          font-size: 14px;
+          line-height: 180%;
+          /* or 25px */
+          
+          text-align: justify;
+          color: #1B1B50;}
+
+          .gradient3{
+            background: rgba(220, 233, 233, 1);
+
+          }
+          .btnorange{
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            padding: 18px 45px;
+            gap: 10px;
+            font-weight: 600;
+            color: white!important;
+background: linear-gradient(297.28deg, #F66E6E 67.01%, rgba(246, 110, 110, 0) 123.71%);
+filter: drop-shadow(0px 2px 6px rgba(255, 22, 64, 0.33));
+border-radius: 70px!important;
+          }
+          .size{
+            width: 100%;
+          }
+          .para5{
+            text-align: justify;
+          }      .para6{
+            text-align: justify;
+    padding-left: 49px!important;
+    padding-right: 49px!important;
+        
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 206.5%!important;
+/* or 29px */
+
+
+color: rgba(0, 0, 0, 0.8);
+  }
+  .btnblue{
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      padding: 18px 45px;
+      gap: 10px;
+      font-weight: 600;
+      color: white!important;
+      background: linear-gradient(288.62deg, #6E8CF6 42.36%, rgba(110, 213, 246, 0.93) 115.74%);
+      border-radius: 70px!important;
+    }
+  
