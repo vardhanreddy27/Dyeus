@@ -2,7 +2,7 @@ import React from 'react'
 import { IoIosArrowForward } from 'react-icons/io';
 import { FiFacebook } from 'react-icons/fi';
 import { FiTwitter } from 'react-icons/fi';
-import { HiOutlineMail } from 'react-icons/hi';
+import { AiFillHeart } from 'react-icons/ai';
 
 function Footer() {
   return (
@@ -17,11 +17,9 @@ function Footer() {
 
 </div><hr className='hrx' />
 <br></br>
-<div className='col-xs-6 in'><input className="form-control" type="text" placeholder="Enter Your Email"/>
-</div><div className='col-xs-2 d-inline'><button type="button" className="btn btn-c"><HiOutlineMail className='sic' />Activate </button>
-</div>
-
-
+<p className='text-center'>
+    Made with <AiFillHeart className='text-danger'/> by <a href="https://www.instagram.com/smile_with_vardhan_reddy/" className='rem'>Vardhan_Reddy</a>
+</p>
 
     </div>
   )

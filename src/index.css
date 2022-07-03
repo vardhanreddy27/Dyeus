@@ -276,3 +276,9 @@ background-color: #050506!important;
         .sic{
           width: 2rem!important;
         }
+
+        .rem{
+          color: #ffffff;
+          text-decoration: none;
+          font-weight: bold;
+      }
