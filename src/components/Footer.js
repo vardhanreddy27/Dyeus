@@ -17,8 +17,8 @@ function Footer() {
 
 </div><hr className='hrx' />
 <br></br>
-<div className='col-6 in'><input className="form-control" type="text" placeholder="Enter Your Email"/>
-</div><div className='col-2 d-inline'><button type="button" className="btn btn-c"><HiOutlineMail className='sic' />Activate </button>
+<div className='col-xs-6 in'><input className="form-control" type="text" placeholder="Enter Your Email"/>
+</div><div className='col-xs-2 d-inline'><button type="button" className="btn btn-c"><HiOutlineMail className='sic' />Activate </button>
 </div>
 
 
