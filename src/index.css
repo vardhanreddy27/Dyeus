@@ -12,20 +12,13 @@
 }
 .navbar-brand{
   margin-right: 0rem!important;
+}.gradient{    background: linear-gradient(180deg, #FFF6FB 0%, #E7F6FC 33.33%, rgba(213, 224, 255, 0) 100%);
 }
-.sub-text{
-  position: absolute;
-    width: 290px;
-    height: 23px;
-    left: 42px;
-    top: 122px;
-    font-family: 'Quicksand';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 22px;
-    text-align: center;
-    color: #1B1B50;
+.icons{
+  
+  width: 85px;
+  color: #a5a6f6;
+  margin: 2rem;
 }
 .about{
   font-family: 'Reptile';
@@ -36,25 +29,74 @@ line-height: 30px;
 
 color: #1B1B50;
 }
-.para{    position: absolute;
-  width: 308px;
-  height: 75px;
-  left: 33px;
-  top: 154px;
-  font-family: 'Poppins';
-  font-style: normal;
-  left: 35px;
-  font-weight: 300;
-  text-align: justify;
-    font-size: 14px;
-  line-height: 179%;
-  color: #000000;}
-  .gradient{
-    background: linear-gradient(180deg, #FFF6FB 0%, #E7F6FC 33.33%, rgba(213, 224, 255, 0) 100%);
-
-  }
-  hr {
-    background-color: black!important;
-    opacity: 1!important;
-    margin-top: 178px!important;
+.sub-text{
+  
+font-family: 'Quicksand';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+color: #1B1B50;
 }
+hr{background-color:black!important;
+  width: 85%!important;
+    margin: 0 auto!important;
+  opacity: 1!important;}
+  .sub-text2{font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 33px;
+    /* identical to box height */
+    color: #1B1B50;}
+    .sub-text3{
+      
+font-family: 'Reptile';
+font-style: normal;
+font-weight: 500;
+font-size: 33px;
+line-height: 134.8%;
+/* or 44px */
+
+text-align: center;
+
+color: #1B1B50;
+    }
+    .para{
+      font-family: 'DM Sans';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 16px;
+      line-height: 179%;
+      /* or 29px */
+      
+      text-align: center;
+      
+      color: #1B1B50!important;
+      }
+      .para2{
+        
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 179%;
+/* or 29px */
+
+text-align: center;
+
+color: #1B1B50;
+      }
+   .para3{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 179%;
+    /* or 29px */
+    
+    text-align: center;
+    
+    color: #1B1B50;
+    }
