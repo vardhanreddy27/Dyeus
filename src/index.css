@@ -195,6 +195,7 @@ color: rgba(0, 0, 0, 0.8);
   html, body
   {
     -ms-content-zooming:none;  
+
     overflow-y: hidden; 
   overflow-x: hidden; 
   overflow-y: scroll; 
