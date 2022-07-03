@@ -13,14 +13,48 @@
 .navbar-brand{
   margin-right: 0rem!important;
 }
-.about{    position: absolute;
-  width: 183px;
-  height: 30px;
-  left: 106px;
-  top: 110px;
+.sub-text{
+  position: absolute;
+    width: 290px;
+    height: 23px;
+    left: 42px;
+    top: 122px;
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #1B1B50;
+}
+.about{
   font-family: 'Reptile';
+font-style: normal;
+font-weight: 500;
+font-size: 33px;
+line-height: 30px;
+
+color: #1B1B50;
+}
+.para{    position: absolute;
+  width: 308px;
+  height: 75px;
+  left: 33px;
+  top: 154px;
+  font-family: 'Poppins';
   font-style: normal;
-  font-weight: 500;
-  font-size: 33px;
-  line-height: 30px;
-  color: #1B1B50;}
+  left: 35px;
+  font-weight: 300;
+  text-align: justify;
+    font-size: 14px;
+  line-height: 179%;
+  color: #000000;}
+  .gradient{
+    background: linear-gradient(180deg, #FFF6FB 0%, #E7F6FC 33.33%, rgba(213, 224, 255, 0) 100%);
+
+  }
+  hr {
+    background-color: black!important;
+    opacity: 1!important;
+    margin-top: 178px!important;
+}
